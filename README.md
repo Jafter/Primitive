@@ -8,7 +8,6 @@ game and how it all came together. Using its intro screen, and pixel map, I bega
 primitive form of AI. Hence the name: Primitive.
 
 This program is far from finished, and is more of a hobby. Feel free to use this code to your own purposes, I
-hope you have as much fun as I did fiddling around with it. All I ask that that Notch and I are sourced in the
-documentation, I go by Jafter.
+hope you have as much fun as I did fiddling around with it.
 
 When the program is run, a white-noise background with appear with the word "Primitive". To start the simulation, simply click in the window. You may also click the window again during the simulation to generate a new one. Each iteration is random.
